@@ -1,0 +1,7 @@
+{
+  "name": "MiLingo - Học ngoại ngữ từ cuộc sống",
+  "description": "Ứng dụng học ngôn ngữ theo ngữ cảnh với bản demo tương tác tích hợp AI giúp phân tích ảnh thực tế để dạy từ vựng và câu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
