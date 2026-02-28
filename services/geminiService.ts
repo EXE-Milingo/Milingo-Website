@@ -1,7 +1,7 @@
 
 import { GoogleGenAI, Type, Modality } from "@google/genai";
 import { MilingoResult } from "../types";
-
+// Initialize GoogleGenAI
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
 
 export const analyzeImageForLanguage = async (base64Image: string, targetLanguage: string): Promise<MilingoResult> => {
