@@ -6,7 +6,7 @@
 
 **Ứng dụng học ngoại ngữ thế hệ mới, tích hợp Camera & Trí tuệ nhân tạo**
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-milingo.vercel.app-6366f1?style=for-the-badge)](https://milingo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-milingo.vn-6366f1?style=for-the-badge)](https://milingo.vn)
 [![Coming Soon](https://img.shields.io/badge/📱_App-Coming_July_2026-f43f5e?style=for-the-badge)](#)
 [![Made with AI](https://img.shields.io/badge/⚡_Powered_by-Gemini_AI-4285F4?style=for-the-badge)](#)
 
@@ -68,15 +68,21 @@
 
 | | Link |
 |--|------|
-| 🖥️ **Website** | [milingo.vercel.app](https://milingo.vercel.app) |
+| 🖥️ **Website** | [milingo.vercel.app](https://milingo.vn) |
 | 📱 **App (Coming Soon)** | Ra mắt tháng 7/2026 |
-| 📧 **Liên hệ** | contact@milingo.app |
+| 📧 **Liên hệ** | hi@milingo.vn |
 
 
 <div align="center">
 
-**© 2026 Milingo — FPT University · 6ACE**
+**© 2026 Milingo — From 6ACE with love ❤️**
 
 *Học ngôn ngữ qua từng khoảnh khắc của cuộc sống* 🌟
+
+---
+
+**🔍 Keywords:** `AI Language Learning` · `EdTech Vietnam` · `Camera Learning App` · `Gemini AI` · `Learn Languages with AI`
+
+`#milingo` `#edtech` `#ai` `#languagelearning` `#gemini` `#vietnamstartup` `#learnlanguages` `#camera` `#snaplearn` `#fpt` `#6ace`
 
 </div>
