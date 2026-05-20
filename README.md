@@ -68,7 +68,7 @@
 
 | | Link |
 |--|------|
-| 🖥️ **Website** | [milingo.vercel.app](https://milingo.vn) |
+| 🖥️ **Website** | [milingo.vn](https://milingo.vn) |
 | 📱 **App (Coming Soon)** | Ra mắt tháng 7/2026 |
 | 📧 **Liên hệ** | hi@milingo.vn |
 
