@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ================================================
+       MILINGO SITEMAP
+       Domain : https://milingo.vn
+       Updated: 2026-05-20
+       ================================================ -->
+
+  <!-- ── TRANG CHỦ (Homepage) ── -->
+  <url>
+    <loc>https://milingo.vn/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Brand images -->
+    <image:image>
+      <image:loc>https://milingo.vn/img/logo.png</image:loc>
+      <image:title>Milingo – Ứng Dụng Học Ngoại Ngữ Qua Camera AI</image:title>
+      <image:caption>Logo Milingo – App EdTech học ngoại ngữ tích hợp AI và camera, giúp học tiếng Anh, Nhật, Trung, Hàn qua hình ảnh thực tế</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/Mascot.png</image:loc>
+      <image:title>Mi – Trợ Lý AI Milingo</image:title>
+      <image:caption>Mascot Mi – Trợ lý AI thông minh của ứng dụng học ngoại ngữ Milingo, hỗ trợ học tiếng Anh qua camera</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/og-image.png</image:loc>
+      <image:title>Milingo App – Học Ngoại Ngữ Qua Camera Tích Hợp AI</image:title>
+      <image:caption>Milingo EdTech – Chụp vật thể để học từ vựng tức thì bằng AI. Hỗ trợ tiếng Anh, Nhật, Trung, Hàn, Pháp, Đức, Tây Ban Nha, Ý</image:caption>
+    </image:image>
+
+    <!-- Team member images -->
+    <image:image>
+      <image:loc>https://milingo.vn/img/Dung.png</image:loc>
+      <image:title>Hoàng Văn Dũng – CEO &amp; Team Leader Milingo</image:title>
+      <image:caption>Hoàng Văn Dũng – CEO và Team Leader của Milingo, ứng dụng EdTech học ngoại ngữ tích hợp AI tại Việt Nam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/At.png</image:loc>
+      <image:title>Nguyễn Bá Ất – MKT &amp; AI Research Milingo</image:title>
+      <image:caption>Nguyễn Bá Ất – Chuyên gia Marketing và AI Research tại Milingo, app học từ vựng bằng AI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/Tu.png</image:loc>
+      <image:title>Mai Cẩm Tú – Marketing Lead Milingo</image:title>
+      <image:caption>Mai Cẩm Tú – Marketing Lead tại Milingo, ứng dụng học ngoại ngữ qua camera AI cho Gen Z</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/Khoi.png</image:loc>
+      <image:title>Ngô Quang Khôi – Frontend Developer Milingo</image:title>
+      <image:caption>Ngô Quang Khôi – Lập trình viên Frontend tại Milingo, xây dựng giao diện ứng dụng học ngoại ngữ AI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/Loan.png</image:loc>
+      <image:title>Nguyễn Thị Kiều Loan – Growth Hacker Milingo</image:title>
+      <image:caption>Nguyễn Thị Kiều Loan – Growth Hacker tại Milingo, phụ trách tăng trưởng người dùng ứng dụng EdTech AI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://milingo.vn/img/Loc.png</image:loc>
+      <image:title>Đặng Nguyễn Phước Lộc – Backend Developer Milingo</image:title>
+      <image:caption>Đặng Nguyễn Phước Lộc – Lập trình viên Backend tại Milingo, xây dựng hệ thống AI nhận diện vật thể học ngoại ngữ</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ── CHÍNH SÁCH BẢO MẬT ── -->
+  <url>
+    <loc>https://milingo.vn/privacy</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ── ĐIỀU KHOẢN SỬ DỤNG ── -->
+  <url>
+    <loc>https://milingo.vn/terms</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
