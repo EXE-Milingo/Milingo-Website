@@ -3,11 +3,11 @@ import { MilingoResult } from "../types";
 
 const apiKey =
   import.meta.env.VITE_GEMINI_API_KEY ||
-  import.meta.env.GEMINI_API_KEY ||
-  process.env.GEMINI_API_KEY ||
-  process.env.API_KEY;
+  import.meta.env.GEMINI_API_KEY;
 
 let aiClient: GoogleGenAI | null = null;
+
+console.log("[Milingo] API Key loaded:", apiKey ? `${apiKey.slice(0, 8)}...` : "❌ MISSING");
 
 const getAiClient = (): GoogleGenAI => {
   if (!apiKey) {
